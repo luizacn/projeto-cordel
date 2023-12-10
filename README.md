@@ -1,5 +1,5 @@
 # projeto-cordel
-### Projeto-cordel desenvlovido com orientação do curso em vídeo, HTML5 e CSS3.
+### Projeto cordel desenvolvido no curso de html5 e css3 do curso em vídeo
 
 <div align="center">
 
