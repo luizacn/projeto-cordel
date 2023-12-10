@@ -1,2 +1,8 @@
 # projeto-cordel
-Projeto do Cordel de Milton Duarte
+### Projeto-cordel desenvlovido com orientação do curso em vídeo, HTML5 e CSS3.
+
+<div align="center">
+
+[<img src="imagens/projeto-cordel.png"]()
+
+</div>
