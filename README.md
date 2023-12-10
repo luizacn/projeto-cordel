@@ -3,6 +3,6 @@
 
 <div align="center">
 
-[<img src="imagens/projeto-cordel.png"](https://luizacn.github.io/projeto-cordel/)
+[<img src="imagens/projeto-cordel.png">](https://luizacn.github.io/projeto-cordel/)
 
 </div>
